@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+    
+}
+td{
+    padding: 8px 16px;
+}
+.col{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: aqua;
+}
+input{
+  font-size: large;
+}
